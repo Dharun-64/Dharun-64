@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dharun-64
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python kivy
+- 🌱 I’m currently learning ... Python, Java, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
